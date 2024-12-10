@@ -7,4 +7,4 @@ the function to call is:
 
 umcc_discretize(data, max_contrast=.45, min_samples=3, scale=True)
 
-numpy only required. for theorical info refer to original paper "Van de Merckt (1993) Decision trees in numerical attribute space"
+numpy only required. for theorical info refer to original paper "Van de Merckt (1993) Decision trees in numerical attribute space"
